@@ -110,7 +110,7 @@
 				scrollTop: $('html').offset().top
 			}, 500, 'easeInOutExpo');
 			
-			return false;
+		 	return false;
 		});
 
 		$(window).scroll(function(){
